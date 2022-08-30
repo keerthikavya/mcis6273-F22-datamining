@@ -1,7 +1,7 @@
 # Podcast questions
 **1.List 3 things that you learned from this podcast?**
 - Github is a special API that provides tools that make data analysis much more efficient and manageable.
-- Juypter can be used as a presentation medium and as a way of tracking and talking about very complex data-driven work. 
+- Jupyter can be used as a presentation medium and as a way of tracking and talking about very complex data-driven work. 
 - Jupyter notebook is a better form of version control and tracking of data analysis steps.
 
 **2.What is your reaction to the podcast? Pick at least one point Adam brought up in the interview that you agree with and
